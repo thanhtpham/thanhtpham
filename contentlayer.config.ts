@@ -70,6 +70,8 @@ export const Authors = defineDocumentType(() => ({
     twitter: { type: 'string' },
     linkedin: { type: 'string' },
     github: { type: 'string' },
+    facebook: { type: 'string' },
+    youtube: { type: 'string' },
     layout: { type: 'string' },
   },
   computedFields,

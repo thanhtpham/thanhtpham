@@ -1,3 +1,173 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid meet" viewBox="344.5639097744361 330.27819548872174 111.73684210526318 91.21804511278197" width="53.87" height="43.61"><defs><path d="M453.3 331.28L453.3 359.85L388.64 418.5L388.64 388.42L453.3 331.28Z" id="aFZf6T5ED"></path><linearGradient id="gradientb2ThqnP5Op" gradientUnits="userSpaceOnUse" x1="420.97" y1="331.28" x2="420.97" y2="418.5"><stop style="stop-color: #06b6d4;stop-opacity: 1" offset="0%"></stop><stop style="stop-color: #67e8f9;stop-opacity: 1" offset="100%"></stop></linearGradient><path d="M410.23 331.28L410.23 359.85L345.56 418.5L345.56 388.42L410.23 331.28Z" id="a9fehgwfM"></path><linearGradient id="gradientk1wNV9Ostb" gradientUnits="userSpaceOnUse" x1="377.89" y1="331.28" x2="377.89" y2="418.5"><stop style="stop-color: #06b6d4;stop-opacity: 1" offset="0%"></stop><stop style="stop-color: #67e8f9;stop-opacity: 1" offset="100%"></stop></linearGradient></defs><g><g><use xlink:href="#aFZf6T5ED" opacity="1" fill="url(#gradientb2ThqnP5Op)"></use></g><g><use xlink:href="#a9fehgwfM" opacity="1" fill="url(#gradientk1wNV9Ostb)"></use></g></g></svg>
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 263 209" width="54" height="43">
+	<title>5287029-ai</title>
+	<style>
+		.s0 { fill: #035b8c } 
+		.s1 { fill: #067ac5 } 
+		.s2 { fill: #231f20 } 
+	</style>
+	<g id="BACKGROUND">
+	</g>
+	<g id="OBJECTS">
+		<g id="&lt;Group&gt;">
+			<g id="&lt;Group&gt;">
+				<g id="&lt;Group&gt;">
+					<g id="&lt;Group&gt;">
+						<g id="&lt;Group&gt;">
+							<g id="&lt;Group&gt;">
+							</g>
+						</g>
+						<g id="&lt;Group&gt;">
+						</g>
+						<g id="&lt;Group&gt;">
+						</g>
+					</g>
+				</g>
+				<g id="&lt;Group&gt;">
+					<g id="&lt;Group&gt;">
+					</g>
+					<g id="&lt;Group&gt;">
+					</g>
+				</g>
+				<g id="&lt;Group&gt;">
+					<g id="&lt;Group&gt;">
+						<g id="&lt;Group&gt;">
+							<path id="&lt;Path&gt;" class="s0" d="m118 204.3h-3.1c-14.7 0-26.7-11.9-26.7-26.7v-143c0-14.7 12-26.7 26.7-26.7h3.1c14.8 0 26.7 12 26.7 26.7v143c0 14.8-11.9 26.7-26.7 26.7z"/>
+						</g>
+					</g>
+					<g id="&lt;Group&gt;">
+						<g id="&lt;Group&gt;">
+							<path id="&lt;Path&gt;" class="s0" d="m200.5 204.3h-3.2c-14.7 0-26.6-11.9-26.6-26.7v-143c0-14.7 11.9-26.7 26.6-26.7h3.2c14.7 0 26.6 12 26.6 26.7v143c0 14.8-11.9 26.7-26.6 26.7z"/>
+						</g>
+					</g>
+					<g id="&lt;Group&gt;">
+						<g id="&lt;Group&gt;">
+							<path id="&lt;Path&gt;" class="s1" d="m103.7 201.3l-2.7-1.6c-12.8-7.3-17.1-23.6-9.8-36.4l84-145.5c7.4-12.7 23.7-17.1 36.5-9.8l2.7 1.6c12.7 7.4 17.1 23.7 9.7 36.4l-84 145.5c-7.3 12.8-23.6 17.1-36.4 9.8z"/>
+						</g>
+					</g>
+					<g id="&lt;Group&gt;">
+						<g id="&lt;Group&gt;">
+							<path id="&lt;Path&gt;" class="s1" d="m21.3 201.3l-2.7-1.6c-12.8-7.3-17.2-23.6-9.8-36.4l84-145.5c7.4-12.7 23.7-17.1 36.4-9.8l2.7 1.6c12.8 7.4 17.1 23.7 9.8 36.4l-84 145.5c-7.4 12.8-23.7 17.1-36.4 9.8z"/>
+						</g>
+					</g>
+					<g id="&lt;Group&gt;">
+						<g id="&lt;Group&gt;">
+							<path id="&lt;Path&gt;" class="s1" d="m186.2 201.3l-2.8-1.6c-12.7-7.3-17.1-23.6-9.7-36.4l31.2-54.1c7.4-12.7 23.7-17.1 36.4-9.7l2.7 1.6c12.8 7.3 17.1 23.6 9.8 36.4l-31.2 54c-7.4 12.8-23.7 17.1-36.4 9.8z"/>
+						</g>
+					</g>
+				</g>
+				<g id="&lt;Group&gt;">
+					<g id="&lt;Group&gt;">
+						<g id="&lt;Group&gt;">
+						</g>
+						<g id="&lt;Group&gt;">
+						</g>
+					</g>
+					<g id="&lt;Group&gt;">
+						<g id="&lt;Group&gt;">
+							<g id="&lt;Group&gt;">
+							</g>
+							<g id="&lt;Group&gt;">
+							</g>
+						</g>
+					</g>
+				</g>
+				<g id="&lt;Group&gt;">
+					<g id="&lt;Group&gt;">
+						<g id="&lt;Group&gt;">
+							<g id="&lt;Group&gt;">
+								<g id="&lt;Group&gt;">
+									<g id="&lt;Group&gt;">
+										<g id="&lt;Group&gt;">
+											<g id="&lt;Group&gt;">
+												<g id="&lt;Group&gt;" style="opacity: .2">
+													<g id="&lt;Group&gt;">
+														<g id="&lt;Group&gt;">
+															<path id="&lt;Path&gt;" class="s2" d="m237.8 511.1q0.5 0 1 0-0.2 0-0.5 0z"/>
+														</g>
+													</g>
+												</g>
+											</g>
+										</g>
+									</g>
+									<g id="&lt;Group&gt;">
+										<g id="&lt;Group&gt;">
+											<g id="&lt;Group&gt;">
+												<g id="&lt;Group&gt;">
+													<g id="&lt;Group&gt;">
+														<path id="&lt;Path&gt;" class="s1" d="m238.8 511.1q-0.2 0-0.5 0h-0.5q0.5 0 1 0z"/>
+													</g>
+												</g>
+											</g>
+										</g>
+										<g id="&lt;Group&gt;">
+											<g id="&lt;Group&gt;">
+												<path id="&lt;Path&gt;" class="s1" d="m237.8 511.1q0.5 0 1 0-0.2 0-0.5 0z"/>
+											</g>
+										</g>
+									</g>
+								</g>
+							</g>
+						</g>
+						<g id="&lt;Group&gt;">
+							<g id="&lt;Group&gt;">
+							</g>
+						</g>
+						<g id="&lt;Group&gt;">
+						</g>
+						<g id="&lt;Group&gt;">
+						</g>
+					</g>
+					<g id="&lt;Group&gt;">
+					</g>
+				</g>
+				<g id="&lt;Group&gt;">
+					<g id="&lt;Group&gt;">
+						<g id="&lt;Group&gt;">
+							<g id="&lt;Group&gt;">
+							</g>
+						</g>
+						<g id="&lt;Group&gt;">
+						</g>
+					</g>
+					<g id="&lt;Group&gt;">
+					</g>
+					<g id="&lt;Group&gt;">
+					</g>
+				</g>
+				<g id="&lt;Group&gt;">
+					<path id="&lt;Path&gt;" class="s0" d="m852.9 824.3q0.4-0.2 0.8-0.5-0.4 0.3-0.8 0.6z"/>
+				</g>
+				<g id="&lt;Group&gt;">
+					<g id="&lt;Group&gt;">
+						<g id="&lt;Group&gt;">
+							<g id="&lt;Group&gt;">
+							</g>
+						</g>
+					</g>
+					<g id="&lt;Group&gt;">
+					</g>
+				</g>
+				<g id="&lt;Group&gt;">
+					<g id="&lt;Group&gt;">
+						<g id="&lt;Group&gt;">
+							<g id="&lt;Group&gt;">
+							</g>
+							<g id="&lt;Group&gt;">
+							</g>
+						</g>
+					</g>
+					<g id="&lt;Group&gt;">
+					</g>
+					<g id="&lt;Group&gt;">
+					</g>
+				</g>
+				<g id="&lt;Group&gt;">
+					<g id="&lt;Group&gt;">
+					</g>
+					<g id="&lt;Group&gt;">
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

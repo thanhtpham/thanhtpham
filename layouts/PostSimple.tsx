@@ -32,7 +32,7 @@ export default function PostLayout({ content, next, prev, children }: LayoutProp
             <div className="space-y-1 border-b border-gray-200 pb-10 text-center dark:border-gray-700">
               <dl>
                 <div>
-                  <dt className="sr-only">Published on</dt>
+                  <dt className="sr-only">Dăng</dt>
                   <dd className="text-base font-medium leading-6 text-gray-500 dark:text-gray-400">
                     <time dateTime={date}>{formatDate(date, siteMetadata.locale)}</time>
                   </dd>
@@ -49,9 +49,7 @@ export default function PostLayout({ content, next, prev, children }: LayoutProp
             </div>
             {siteMetadata.comments && (
               <div className="pt-6 pb-6 text-center text-gray-700 dark:text-gray-300" id="comment">
-                {!loadComments && (
-                  <button onClick={() => setLoadComments(true)}>Load Comments</button>
-                )}
+                {!loadComments && <button onClick={() => setLoadComments(true)}>Bình luận</button>}
                 {loadComments && <Comments commentsConfig={siteMetadata.comments} slug={slug} />}
               </div>
             )}
