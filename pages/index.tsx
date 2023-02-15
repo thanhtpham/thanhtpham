@@ -6,8 +6,8 @@ import { formatDate } from 'pliny/utils/formatDate'
 import { sortedBlogPost, allCoreContent } from 'pliny/utils/contentlayer'
 import { InferGetStaticPropsType } from 'next'
 import { NewsletterForm } from '@/components/NewsletterForm'
-import { allBlogs } from 'contentlayer/generated'
 import type { Blog } from 'contentlayer/generated'
+import { allBlogs } from 'contentlayer/generated'
 
 const MAX_DISPLAY = 5
 
