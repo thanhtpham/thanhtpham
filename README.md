@@ -19,7 +19,7 @@ Experienced Backend Developer with more than 3 years of hands-on expertise in Ja
                   
                   
 <p align="left">
-    <a href="https://discord.com/users/thanhtpham" target="_blank" rel="noreferrer">
+    <a href="https://discordapp.com/users/914030075995893760" target="_blank" rel="noreferrer">
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="undefined" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" />
