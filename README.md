@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Developer
 ---------
 
-Backend Developer with 3+ years’ experience. Proficient in Java, Node.js. Knowledgeable in Docker, Linux, AWS.
+Backend Developer with 4+ years’ experience. Proficient in Java, Node.js. Knowledgeable in Docker, Linux, AWS.
 
 *   🌍  I'm based in Viet Nam
 *   ✉️  You can contact me at [thanhtpham99@gmail.com](mailto:thanhtpham99@gmail.com)
